@@ -2,6 +2,7 @@
 
 This project showcases an interactive **Sales Dashboard** built using **Power BI**, analyzing two years of transactional data from a fictional Superstore. The goal is to uncover business insights, observe sales trends, and forecast future performance.
 
+
 ## 🔍 Project Overview
 
 - **Tool Used**: Power BI
