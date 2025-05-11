@@ -53,7 +53,6 @@ This project showcases an interactive **Sales Dashboard** built using **Power BI
 | `Superstore_Sales_Dashboard.pbix` | Power BI file (optional, editable) |
 | `Superstore_Sales_Dashboard.pdf` | Exported view of the final dashboard |
 
----
 
 ## 🚀 How to Use
 1. Download the `.pbix` file to explore the dashboard in Power BI Desktop.
