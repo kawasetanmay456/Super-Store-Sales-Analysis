@@ -55,6 +55,6 @@ This project showcases an interactive **Sales Dashboard** built using **Power BI
 
 
 ## 🚀 How to Use
-1. Download the `.pbix` file to explore the dashboard in Power BI Desktop.
+1. Download the `SuperStore Sales Dashboard.pbix` file to explore the dashboard in Power BI Desktop.
 2. Explore insights, interact with slicers, and check the forecast section.
 
